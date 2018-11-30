@@ -1,0 +1,15 @@
+{
+    "approx": "EOBNRv2", 
+    "gen_noise": false, 
+    "gen_plot": false, 
+    "kwarg": {
+        "mass1": 5, 
+        "mass2": 5
+    }, 
+    "n_data": 1000, 
+    "random_seed": 137, 
+    "sample_period": 1, 
+    "sample_rate": 8192, 
+    "sample_type": "around_peak", 
+    "snr": 5
+}
